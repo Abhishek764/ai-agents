@@ -1,0 +1,23 @@
+{
+  "name": "agent-development",
+  "version": "1.0.0",
+  "description": "\"# ai-agents\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek764/ai-agents.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek764/ai-agents/issues"
+  },
+  "homepage": "https://github.com/Abhishek764/ai-agents#readme",
+  "dependencies": {
+    "@openai/agents": "^0.3.2",
+    "zod": "^3.25.76"
+  }
+}
